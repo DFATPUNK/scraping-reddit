@@ -21,7 +21,11 @@ python reddit_thread_scraper.py "<URL>" --allow_no_numbers
 ```
 
 ## Output
-2 formats: `.csv` & `.md`
+**Two files** in formats `.csv` and `.md`
 
-You can read 2 examples of outputs from [this Reddit thread](https://www.reddit.com/r/AI_Agents/comments/1l3rmp6/anyone_here_actually_making_money_selling_ai/).
+Check our two examples of outputs from [this Reddit thread](https://www.reddit.com/r/AI_Agents/comments/1l3rmp6/anyone_here_actually_making_money_selling_ai/) in the repo:
+* [`reddit_thread.csv`](https://github.com/DFATPUNK/scraping-reddit/blob/main/reddit_thread.csv)
+* [`reddit_thread.md`](https://github.com/DFATPUNK/scraping-reddit/blob/main/reddit_thread.md)
 
+## Contact
+Email: [jeremy@jeremybrunet.com](mailto:jeremy@jeremybrunet.com)
